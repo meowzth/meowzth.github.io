@@ -1,4 +1,4 @@
-#### [resume.pdf](https://github.com/meowzth/meowzth.github.io/raw/master/resume.pdf)
+### [resume.pdf](https://github.com/meowzth/meowzth.github.io/raw/master/resume.pdf)
 
 <img align="left" img src="./img.png" width="23%">
 
