@@ -1,6 +1,6 @@
 ### [resume_spodaneyko.pdf](https://github.com/meowzth/meowzth.github.io/raw/master/resume_spodaneyko.pdf)
 
-<img align="left" img src="./img.png" width="16%">
+<img align="left" img src="./img.png" width="21%">
 
 	Имя: Владимир Споданейко
 	Дата рождения: 21.09.1993
